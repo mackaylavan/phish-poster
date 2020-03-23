@@ -1,17 +1,31 @@
+/*   
+POSTER HEX CODES  
+#0ab4ef - LIGHT BLUE
+#3d4589 - PURPLE
+#bc2b1b - RED
+#f17046- ORANGE
+
+*/
+
+
 html{
   margin: 0 auto; 
   display: flex;
   justify-content: center;
   align-items: center;
   flex-flow: column;
+  
 } 
 
 body {
-  margin: 0px 20px;
-  padding: 0;
+  margin: 20px;
+  padding: 0px 25px 25px;
   font-size: 18px;
   font-family: 'Fascinate Inline', cursive;
   color: #3d4589;
+  
+  box-shadow: 5px 10px 25px  #3d4589;
+
 
   
 }
